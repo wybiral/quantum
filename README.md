@@ -1,1 +1,1 @@
-*** This project has moved to https://github.com/qcsimulator/qcsimulator ***
+*** This project has moved to https://github.com/qcsimulator/ ***
